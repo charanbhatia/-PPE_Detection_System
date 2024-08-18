@@ -1,0 +1,7 @@
+path: /content/syook-assignment/data/processed/ppe_detection
+train: images/train
+val: images/val
+test: images/test
+
+nc: 9  # number of classes (adjust based on your chosen PPE classes)
+names: ['hard-hat', 'gloves', 'mask', 'glasses' , 'boots', 'vest', 'ppe-suit', 'ear-protector' ,'safety-harness']

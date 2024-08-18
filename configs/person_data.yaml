@@ -1,0 +1,6 @@
+train: /content/new_person_model/person_model/train/images
+val: /content/new_person_model/person_model/valid/images
+test: /content/new_person_model/person_model/test/images
+
+nc: 1  # number of classes
+names: ['person']
