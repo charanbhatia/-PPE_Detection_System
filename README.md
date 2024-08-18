@@ -91,6 +91,10 @@ Note: The current implementation focuses on PPE detection, but the person detect
 
 The inference results (images with bounding boxes) are saved in the specified output directory.
 
+## Documentation
+
+Google Doc Link: https://docs.google.com/document/d/1obGN5ry6vEWPDVYkYCA2s4W9B-j0jwJEKPSXYPYw9Yw/edit?usp=sharing
+
 ## Acknowledgments
 
 - Ultralytics for the YOLOv8 implementation
