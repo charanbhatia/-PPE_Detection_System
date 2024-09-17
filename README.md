@@ -1,4 +1,4 @@
-# Syook Assignment - PPE Detection
+#  PPE Detection System using YOLOv8
 
 This project implements a Personal Protective Equipment (PPE) detection system using YOLOv8. It includes scripts for data preparation, dataset creation, and inference.
 
@@ -98,4 +98,4 @@ Google Doc Link: https://docs.google.com/document/d/1obGN5ry6vEWPDVYkYCA2s4W9B-j
 ## Acknowledgments
 
 - Ultralytics for the YOLOv8 implementation
-- Syook for providing the assignment and dataset
+
